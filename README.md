@@ -4,7 +4,7 @@ A machine learning framework that predicts future college admission cutoff ranks
 
 The algorithm implemented by this codebase is described in the following peer-reviewed publication. Please cite this paper when using our code for academic purposes:
 
-> Girish, Chikkam, Tata Umesh, N. Karthik, and V. Vani. "Anticipating Future College Admission Cutoffs: An Innovative Predictive Model Incorporating Student Reviews and Historical Admissions Cutoff Data Using Machine Learning." *IFIP International Federation for Information Processing, ICCIDS 2024*, IFIP AICT, vol. 717, pp. 167–178, Springer Nature Switzerland AG, 2024. doi [10.1007/978-3-031-69982-5_13](https://doi.org/10.1007/978-3-031-69982-5_13)
+> Girish, Chikkam, Tata Umesh, N. Karthik, and V. Vani. "Anticipating Future College Admission Cutoffs: An Innovative Predictive Model Incorporating Student Reviews and Historical Admissions Cutoff Data Using Machine Learning." *IFIP International Federation for Information Processing, ICCIDS 2024*, IFIP AICT, vol. 717, pp. 167–178, Springer Nature Switzerland AG, 2024. [![DOI](https://img.shields.io/badge/doi-10.1007%2F978--3--031--69982--5__13-blue)](https://doi.org/10.1007/978-3-031-69982-5_13)
 
 ---
 
